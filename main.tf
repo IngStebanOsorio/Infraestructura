@@ -149,3 +149,4 @@ resource "azurerm_virtual_machine" "myterraformvm" {
 #terraform plan -var-file terraform.tfvars -out=plan.out
 #terraform apply  "plan.out" 
 #terraform destroy 
+LEO TE AMO♥ 
